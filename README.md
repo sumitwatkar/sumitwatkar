@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sumit Watkar
 
 # 💫 About Me:
-<br>🔭 I’m passionate Machine Learning Engineer.<br><br>🌱 I’m currently learning MLOPS.<br><br>👨‍💻 All of my projects are available at https://github.com/sumitwatkar<br><br>📲 You can reach me at watkar.sumit@gmail.com
+<br>🔭 I’m passionate Machine Learning Engineer.<br><br>🌱 I’m currently learning MLOPS.<br><br>👨‍💻 All of my projects are available at https://github.com/sumitwatkar/Data-Science-Portfolio<br><br>📲 You can reach me at watkar.sumit@gmail.com
 
 
 # 💻 Tech Stack:
